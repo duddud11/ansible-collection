@@ -8,7 +8,7 @@
 </p>
 
 this repository contains the [`digitalocean.cloud`](https://galaxy.ansible.com/ui/repo/published/digitalocean/cloud/) Ansible Collection.
-This is a grounds-up rewrite of the [`community.digitalocean`](https://galaxy.ansible.com/ui/repo/published/community/digitalocean/) Ansible collection, leveraging [PyDO](https://github.com/digitalocean/pydo).
+this is a grounds-up rewrite of the [`community.digitalocean`](https://galaxy.ansible.com/ui/repo/published/community/digitalocean/) Ansible collection, leveraging [PyDO](https://github.com/digitalocean/pydo).
 
 ## DigitalOcean Collection for Ansible
 
